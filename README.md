@@ -25,4 +25,5 @@ Hi, I'm Ali Sadeghi, a passionate self-taught full stack web developer and a fre
 ## ⚡ GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Asadeghi77&show_icons=true&hide_rank=true&count_private=true)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadeghi77&hide=TeX&layout=compact)
